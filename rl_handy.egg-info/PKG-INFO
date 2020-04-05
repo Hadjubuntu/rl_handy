@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: rl-handy
+Version: 0.1
+Summary: Reinforcement Learnin applied to Human and nature dynamics (HANDY) model
+Home-page: https://github.com/Hadjubuntu/rl_handy
+Author: Adrien Hadj-Salah
+Author-email: adrien.hadj.salah@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
