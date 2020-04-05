@@ -1,7 +1,0 @@
-README.md
-setup.py
-rl_handy.egg-info/PKG-INFO
-rl_handy.egg-info/SOURCES.txt
-rl_handy.egg-info/dependency_links.txt
-rl_handy.egg-info/requires.txt
-rl_handy.egg-info/top_level.txt
