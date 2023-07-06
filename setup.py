@@ -22,6 +22,6 @@ setup(
         'baselines==0.1.5',
         'pytest==5.2.2',
         'matplotlib==3.1.2',
-        'scipy==1.4.1',
+        'scipy==1.10.0',
         'jupyter==1.0.0'],
 )
